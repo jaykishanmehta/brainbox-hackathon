@@ -1,0 +1,23 @@
+{
+  "floors": {
+    "0": {
+      "total": 30,
+      "hourly_consumption": 29.88
+    },
+    "1": {
+      "total": 20,
+      "hourly_consumption": 29.88
+    },
+    "2": {
+      "total": 20,
+      "hourly_consumption": 44.83
+    },
+    "3": {
+      "total": 70,
+      "hourly_consumption": 44.83
+    }
+  },
+  "decision_threshold_percentage": 20,
+  "FLOOR_TABLE_NAME": "floor_plan_and_presence",
+  "hourly_rate": 10
+}
